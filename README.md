@@ -17,7 +17,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 ## PyMongo
 
-This project uses [PyMongo] (https://pymongo.readthedocs.io/en/stable/index.html), a Python distribution containing tools for working with [MongoDB](https://www.mongodb.com/). 
+This project uses [PyMongo](https://pymongo.readthedocs.io/en/stable/index.html), a Python distribution containing tools for working with [MongoDB](https://www.mongodb.com/). 
 
 ## Environment Variables
 
